@@ -1,0 +1,48 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+.pip-tools-cache/
+
+# SQLite
+*.db
+*.sqlite
+
+# Sites (generated locally)
+sites/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Vercel
+.vercel/
+
+# Uploads
+static/uploads/*
+!static/uploads/.gitkeep
+api/static/uploads/*
+!api/static/uploads/.gitkeep
+
+# Local pitch/demo media (kept outside the source repository)
+*.mp4
+*.pdf
+
+.venv/
+.env
+test_api.py
