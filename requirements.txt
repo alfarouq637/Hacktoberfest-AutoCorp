@@ -5,5 +5,5 @@ python-dotenv>=1.0
 python-multipart>=0.0.9
 pypdf>=3.0.0
 argon2-cffi>=25.1.0
-Pillow>=12.3.0,<13
+Pillow>=13.0.0,<14
 cryptography>=46.0.3,<47
