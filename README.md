@@ -216,4 +216,4 @@ TELEGRAM_OWNER_CHAT_ID=your-chat-id
 - **Live Reference Store**: [https://autocorp-ai-websits-builder.vercel.app/sites/1-bolyb-llapparel-alasrya-boleep-fashion-boutique/](https://autocorp-ai-websits-builder.vercel.app/sites/1-bolyb-llapparel-alasrya-boleep-fashion-boutique/)
 - **Live Telegram Bot**: [@autocorp_Alfarouq_Ibrahim_bot](https://t.me/autocorp_Alfarouq_Ibrahim_bot)
 - **Public GitHub Repository**: [https://github.com/alfarouq637/-Agents-at-Work-Project.git](https://github.com/alfarouq637/-Agents-at-Work-Project.git)
-- **Hackathon Track**: Agents at Work 1st Edition — BrainsMingle × Wesam.ai (untap.us)
+
