@@ -204,7 +204,7 @@ TELEGRAM_OWNER_CHAT_ID=your-chat-id
 
 - **Founder & Lead AI Engineer**: **Alfarouq Ibrahim Farouq** (م. الفاروق إبراهيم فاروق)
 - **Cyber Security Engineer**: **Yassin Ahmed Abdalsalam** (م. ياسين احمد عبدالسلام)
-
+- **Backend Engineer**: **Mahmoud Rageh Mohamed** (م. محمود راجح محمد ابراهيم)
 - **LinkedIn**: [https://www.linkedin.com/in/alfarouq-ibrahim](https://www.linkedin.com/in/alfarouq-ibrahim)
 - **GitHub**: [https://github.com/alfarouq637](https://github.com/alfarouq637)
 - **Email**: `alfarwqabrahym0@gmail.com`
